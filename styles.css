@@ -1,0 +1,235 @@
+/* Add the new styles for the navigation bar */
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #4b16ad;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    color: #fff; /* White text color */
+    padding: 10px 20px;
+    justify-content: space-between;
+  }
+  .menu-btn {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  /* Adjust the position of the menu button */
+  .menu-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+  }
+
+  /* Floating menu styles */
+.floating-menu {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  display: none; /* Initially hidden */
+}
+
+.menu-items {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-items li {
+  margin-bottom: 10px;
+}
+
+.menu-sign-in {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Other styles */
+/* Add your other styles here */
+
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .nav a {
+    color: #fff; /* White link color */
+    text-decoration: none;
+    margin-right: 20px;
+  }
+
+  .nav .nav-links a:hover {
+    color: #ffffff; /* Adjust link color on hover as needed */
+  }
+  
+  
+  /* responsive styles */
+  @media screen and (max-width: 1160px) {
+    .nav {
+      padding: 15px 100px;
+    }
+  }
+  
+  @media screen and (max-width: 950px) {
+    .nav {
+      padding: 15px 50px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .nav {
+      padding: 15px 20px;
+    }
+  }
+  .logo {
+    font-size: 24px; /* Adjust the font size as needed */
+  }
+  /* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light gray background */
+  }
+  
+  /* Header styles */
+  .header {
+    background-color: #333; /* Dark gray background */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+
+  
+  /* Main content styles */
+  .main-content {
+    padding: 20px;
+  }
+  .gap {
+    height: 20px; /* Adjust the height of the gap as needed */
+}
+
+  .image-container {
+    top: 75%;
+    padding: 20px;
+    width: 100vw; /* 100% of viewport width */
+    overflow: hidden; /* Hide any overflowing content */
+    margin: 20px 0; 
+    margin-top: 20px;/* Adjust margin as needed */
+}
+
+.image-container img {
+    width: 100%; /* Set image width to 100% of container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure image is block-level element */
+    margin-top: 20px;
+}
+  
+  /* Footer styles */
+  .footer {
+    background-color: #333; /* Dark gray background */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    }
+  
+  #cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    vertical-align: center;
+    width: 75%; /* Adjusted to take full width */
+    margin: 0 auto;
+  }
+  
+  .card {
+    flex-basis: calc(30% - 20px); /* Adjusted to accommodate three cards in a row */
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden; /* Changed to hidden for image containment */
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .card:hover {
+    box-shadow: 0 4px 6px rgba(0, 0, 255, 0.5);
+    transform: scale(1.05);
+  }
+  
+  .card h2 {
+    background-color: #fdfafa;
+    color: rgb(12, 12, 12);
+    padding: 10px;
+    margin: 0;
+  }
+  
+  .card ul {
+    list-style: disc;
+    padding: 0;
+    margin: 10px; /* Adjusted margin for content */
+  }
+  
+  .card li {
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .card-with-image {
+    display: flex;
+    flex-direction: column; /* Changed to column for image and content */
+  }
+  
+  .card-image {
+    flex: none; /* Adjusted to prevent image from growing */
+  }
+  
+  .card-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-content {
+    padding: 10px; /* Adjusted padding for content */
+  }
+  
+  
+  @media (max-width: 768px) {
+    .card {
+      flex-basis: 100%;
+    }
+  }
+  @media (max-width: 1160px) {
+    .card {
+      flex-basis: 100%;
+    }
+  }
+  
+  @media (max-width: 950px) {
+    .card {
+      flex-basis: 100%;
+    }
+  }
