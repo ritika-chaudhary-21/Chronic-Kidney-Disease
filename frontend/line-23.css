@@ -1,0 +1,9 @@
+.line-div9 {
+  width: 100%;
+  position: relative;
+  border-top: 2px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  height: 2px;
+  transform: rotate(90.2deg);
+  transform-origin: 0 0;
+}

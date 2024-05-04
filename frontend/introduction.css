@@ -1,0 +1,549 @@
+.ckd-intro-background-1 {
+  position: absolute;
+  top: 131px;
+  left: 325px;
+  border-radius: 35px;
+  width: 943px;
+  height: 284px;
+  object-fit: cover;
+}
+.kidney-intro-pg-removebg-previ-icon {
+  position: absolute;
+  top: 100px;
+  left: 337px;
+  width: 350px;
+  height: 347px;
+  object-fit: cover;
+}
+.know-your-kidney {
+  position: absolute;
+  top: 192px;
+  left: 653px;
+  font-size: 53px;
+  display: flex;
+  font-family: var(--font-inria-sans);
+  color: #051f2e;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 589px;
+  height: 147px;
+}
+.your-kidney-is {
+  font-size: var(--title-h4-size);
+}
+.your-kidney-is-made-up-of-neph {
+  margin: 0;
+}
+.blank-line14 {
+  font-size: var(--font-size-10xl);
+}
+.understand-your-kidney {
+  font-size: var(--font-size-16xl);
+}
+.blank-line18 {
+  font-size: var(--font-size-25xl);
+}
+.span {
+  line-height: 116.54%;
+}
+.introduction-to-chronic {
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-inria-sans);
+}
+.chronic-kidney-diseaseckd {
+  font-size: var(--title-h4-size);
+  white-space: pre-wrap;
+}
+.stages-of-chronic {
+  font-family: var(--font-inria-sans);
+}
+.level-of-chronic,
+.stages-of-chronic {
+  white-space: pre-wrap;
+}
+.egfr4 {
+  text-decoration: underline;
+}
+.egfr {
+  color: inherit;
+}
+.high-blood-sugar {
+  font-family: var(--font-inria-sans);
+}
+.diabetes-high-blood-sugar-lev {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.decreased-urine-output {
+  margin-bottom: 0;
+}
+.get-regular-exercise,
+.note1 {
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inria-sans);
+}
+.get-regular-exercise {
+  font-size: var(--title-h4-size);
+}
+.if-you-experience {
+  font-size: var(--font-size-4xl);
+}
+.introduction-your-kidney-container1 {
+  width: 100%;
+}
+.introduction-your-kidney-container {
+  position: absolute;
+  top: 492px;
+  left: 117px;
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 1138px;
+  height: 3338px;
+  font-family: var(--font-inria-sans);
+}
+.stages-of-kidney-1 {
+  position: absolute;
+  top: 1541px;
+  left: 314px;
+  width: 656px;
+  height: 212px;
+  object-fit: cover;
+}
+.introduction-child {
+  position: absolute;
+  top: 117px;
+  left: 18px;
+  box-shadow: 3px 7px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid rgba(0, 0, 0, 0.11);
+  box-sizing: border-box;
+  width: 285px;
+  height: 298px;
+}
+.introduction6,
+.table-of-content {
+  position: absolute;
+  top: 165px;
+  left: 44px;
+  display: flex;
+  align-items: center;
+  width: 220px;
+  height: 44px;
+}
+.table-of-content {
+  top: 117px;
+  left: 2px;
+  font-size: var(--font-size-4xl);
+  text-align: center;
+  justify-content: center;
+  width: 323px;
+  height: 68px;
+}
+.introduction-to-ckd,
+.understand-your-kidney1 {
+  position: absolute;
+  left: 44px;
+  display: flex;
+  align-items: center;
+}
+.understand-your-kidney1 {
+  top: 194px;
+  width: 293px;
+  height: 42px;
+}
+.introduction-to-ckd {
+  top: 236px;
+  width: 220px;
+}
+.causes-of-ckd,
+.preventions-from-ckd,
+.stages-of-ckd,
+.symptoms-of-ckd {
+  position: absolute;
+  top: 260px;
+  left: 44px;
+  display: flex;
+  align-items: center;
+  width: 217px;
+  height: 40px;
+}
+.causes-of-ckd,
+.preventions-from-ckd,
+.symptoms-of-ckd {
+  top: 300px;
+  width: 216px;
+  height: 31px;
+}
+.preventions-from-ckd,
+.symptoms-of-ckd {
+  top: 331px;
+  width: 211px;
+  height: 37px;
+}
+.preventions-from-ckd {
+  top: 368px;
+  width: 259px;
+  height: 32px;
+}
+.image-of-the-kidneys-1-icon {
+  position: absolute;
+  top: 681px;
+  left: 264px;
+  width: 646px;
+  height: 485px;
+  object-fit: cover;
+}
+.summary2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 1424px;
+  height: 476px;
+}
+.deviconlinkedin2 {
+  position: absolute;
+  top: 401px;
+  left: 238px;
+  width: 28.7px;
+  height: 30.5px;
+  overflow: hidden;
+}
+.icomoon-freegithub-icon2,
+.uilfacebook-icon2 {
+  position: absolute;
+  top: 398px;
+  left: 200px;
+  width: 34.5px;
+  height: 36.6px;
+  overflow: hidden;
+}
+.icomoon-freegithub-icon2 {
+  top: 402px;
+  left: 276px;
+  width: 27.9px;
+  height: 29.6px;
+}
+.footer-child7 {
+  position: absolute;
+  top: 18.3px;
+  left: 557.6px;
+  box-shadow: 7px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-25xl);
+  background-color: var(--color-linen-300);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 687.4px;
+  height: 435.9px;
+}
+.name2 {
+  position: absolute;
+  top: 132px;
+  left: 631px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.footer-child8,
+.footer-child9 {
+  position: absolute;
+  top: 164px;
+  left: 955px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 220.1px;
+  height: 44.5px;
+}
+.footer-child9 {
+  top: 167px;
+  left: 624px;
+  width: 257.9px;
+  height: 41px;
+}
+.email2 {
+  position: absolute;
+  top: 132px;
+  left: 961px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.footer-child10 {
+  position: absolute;
+  top: 271px;
+  left: 618px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 565px;
+  height: 120.3px;
+}
+.get-in-touch2,
+.message2,
+.send-us-a2 {
+  position: absolute;
+  top: 241px;
+  left: 631px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.get-in-touch2,
+.send-us-a2 {
+  top: 79px;
+  left: 663px;
+  font-size: var(--title-h4-size);
+  font-weight: 500;
+  width: 512px;
+  height: 51px;
+}
+.get-in-touch2 {
+  top: 38px;
+  left: 791px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  width: 272px;
+  height: 34px;
+}
+.footer-child11 {
+  position: absolute;
+  top: 408px;
+  left: 823px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-palegoldenrod);
+  width: 156.9px;
+  height: 31.4px;
+}
+.send2 {
+  position: absolute;
+  top: 410px;
+  left: 870px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 91px;
+  height: 29px;
+}
+.signs-of-kidney-disease-causes2 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-xl);
+}
+.glomerular-filtration-rate-container2,
+.signs-of-kidney-container2 {
+  position: absolute;
+  top: 109px;
+  left: 228px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 155.2px;
+  height: 221.4px;
+}
+.glomerular-filtration-rate-container2 {
+  left: 392px;
+  color: var(--color-gray-100);
+}
+.follow-urologiq2,
+.kidney-health-testing2 {
+  position: absolute;
+  top: 439px;
+  left: 194px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  color: var(--color-dimgray-100);
+  width: 224.2px;
+  height: 34px;
+}
+.kidney-health-testing2 {
+  top: 38px;
+  left: 405px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-darkkhaki);
+  width: 186px;
+  height: 82px;
+}
+.kidneys-and-your-container2,
+.risk-factors2,
+.understanding-kidney-health2 {
+  position: absolute;
+  top: 109px;
+  left: 42px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 155.2px;
+  height: 221.4px;
+}
+.risk-factors2,
+.understanding-kidney-health2 {
+  top: 37px;
+  left: 235px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-darkkhaki);
+  width: 156.9px;
+  height: 41.8px;
+}
+.understanding-kidney-health2 {
+  left: 47px;
+}
+.footer2 {
+  position: absolute;
+  top: 3923px;
+  left: 0;
+  width: 1424px;
+  height: 476px;
+  font-size: var(--text-info-size);
+}
+.contact-info-inner,
+.introduction-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-linen-100);
+  width: 1318px;
+  height: 67px;
+}
+.contact-info-inner {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+.call-our-support2 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.call-our-support-container4 {
+  position: absolute;
+  height: 127.5%;
+  width: 98.37%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.contact-info2 {
+  position: absolute;
+  top: 9px;
+  left: 1047px;
+  width: 221px;
+  height: 16px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.home4 {
+  position: absolute;
+  top: 13px;
+  left: 57px;
+  text-decoration: underline;
+  font-weight: 500;
+  display: inline-block;
+  width: 76px;
+  height: 29px;
+}
+.literature-review3 {
+  left: 252px;
+  text-decoration: underline;
+}
+.about-us4,
+.introduction7,
+.kidney-kitchen2,
+.kidney-test2,
+.literature-review3,
+.research-analysis2 {
+  position: absolute;
+  top: 13px;
+  font-weight: 500;
+  display: inline-block;
+  width: 139px;
+  height: 29px;
+}
+.kidney-test2 {
+  left: 410px;
+  text-decoration: underline;
+}
+.about-us4,
+.introduction7,
+.kidney-kitchen2,
+.research-analysis2 {
+  left: 532px;
+}
+.about-us4,
+.introduction7,
+.kidney-kitchen2 {
+  left: 708px;
+  text-decoration: underline;
+}
+.about-us4,
+.introduction7 {
+  left: 847px;
+}
+.introduction7 {
+  left: 133px;
+  width: 119px;
+}
+.everything-you-need3 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+  color: var(--color-teal);
+}
+.urologiq-everything-you-container3 {
+  position: absolute;
+  top: -35px;
+  left: -289px;
+  display: none;
+  width: 272px;
+  height: 62px;
+  font-size: var(--font-size-12xl);
+}
+.menu-bar3 {
+  position: absolute;
+  top: 34px;
+  left: 264px;
+  background-color: var(--color-linen-100);
+  width: 1020px;
+  height: 34px;
+  font-size: var(--font-size-mini);
+}
+.urologiq-everything-you-container4 {
+  position: absolute;
+  top: 5px;
+  left: 18px;
+  display: inline-block;
+  width: 272px;
+  height: 62px;
+  font-size: var(--font-size-12xl);
+}
+.fluentcall-24-filled-icon2 {
+  position: absolute;
+  top: 1px;
+  left: 1030px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.introduction2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4399px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--title-h4-size);
+  color: var(--color-black);
+  font-family: var(--text-info);
+}

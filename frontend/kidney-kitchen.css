@@ -1,0 +1,733 @@
+.purchase-fresh-food {
+  margin-bottom: 10px;
+}
+.purchase-fresh-food-frequently {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-5xl);
+}
+.purchase-fresh-food-container {
+  position: absolute;
+  top: 699px;
+  left: 89px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 904px;
+  height: 371px;
+}
+.step-1-choose {
+  position: absolute;
+  top: 699px;
+  left: 80px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.eating-right-for,
+.you-may-need {
+  position: absolute;
+  left: 80px;
+  text-align: justify;
+}
+.you-may-need {
+  top: 616px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1031px;
+}
+.eating-right-for {
+  top: 563px;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+}
+.image-12-icon {
+  position: absolute;
+  top: 119px;
+  left: 61px;
+  width: 1188px;
+  height: 413px;
+  object-fit: cover;
+}
+.fuel-your-kidneys,
+.look-for-food {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 57px;
+}
+.fuel-your-kidneys {
+  top: 406px;
+  left: 611px;
+  font-size: var(--font-size-13xl);
+  font-weight: 700;
+  color: #343434;
+  text-align: center;
+  justify-content: center;
+  width: 588px;
+}
+.look-for-food {
+  top: 1041px;
+  left: 80px;
+  font-weight: 500;
+  text-align: justify;
+  width: 918px;
+}
+.image-13-icon,
+.kidney-kitchen-child {
+  position: absolute;
+  top: 1122px;
+  left: 189px;
+  height: 358px;
+}
+.kidney-kitchen-child {
+  background-color: var(--color-gainsboro-100);
+  width: 646px;
+}
+.image-13-icon {
+  width: 200px;
+  object-fit: cover;
+}
+.look-for-sodium {
+  position: absolute;
+  top: 1220px;
+  left: 416px;
+  font-size: var(--font-size-5xl);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 414px;
+  height: 174px;
+}
+.step-2-eat,
+.step-3-choose,
+.step-4-choose,
+.step-5-choose {
+  position: absolute;
+  top: 1504px;
+  left: 80px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.step-3-choose,
+.step-4-choose,
+.step-5-choose {
+  top: 1708px;
+}
+.step-4-choose,
+.step-5-choose {
+  top: 1893px;
+}
+.step-5-choose {
+  top: 2383px;
+  left: 81px;
+}
+.to-help-protect {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.eat-small-portions-of-protein {
+  margin: 0;
+  font-family: inherit;
+  font-size: var(--font-size-lg);
+  padding-left: var(--padding-5xl);
+}
+.to-help-protect-container1 {
+  width: 100%;
+}
+.to-help-protect-container {
+  position: absolute;
+  top: 1563px;
+  left: 80px;
+  font-weight: 500;
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 913px;
+  height: 110px;
+}
+.grill-broil-bake {
+  margin-bottom: 0;
+}
+.to-help-keep-container,
+.to-help-protect1,
+.to-help-your {
+  position: absolute;
+  left: 80px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.to-help-keep-container {
+  top: 1760px;
+  font-size: var(--font-size-lg);
+  width: 963px;
+  height: 110px;
+}
+.to-help-protect1,
+.to-help-your {
+  top: 1935px;
+  width: 923px;
+  height: 76px;
+}
+.to-help-your {
+  top: 2425px;
+  left: 81px;
+  width: 922px;
+}
+.phosphorus-child,
+.phosphorus-item {
+  position: absolute;
+  top: 0;
+  height: 294px;
+}
+.phosphorus-child {
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  border: 2px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  width: 794px;
+}
+.phosphorus-item {
+  left: 293px;
+  width: 0.9px;
+  object-fit: contain;
+}
+.foods-higher-in-phosphorus,
+.foods-lower-in-phosphorus {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  display: flex;
+  align-items: center;
+  width: 280px;
+  height: 36px;
+}
+.foods-higher-in-phosphorus {
+  left: 314px;
+  width: 286px;
+}
+.fresh-fruits-and-container,
+.meat-poultry-fish-container {
+  position: absolute;
+  top: 53px;
+  left: 11px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 316px;
+  height: 218px;
+}
+.meat-poultry-fish-container {
+  left: 299px;
+  height: 241px;
+}
+.phosphorus {
+  position: absolute;
+  top: 2051px;
+  left: 129px;
+  width: 794px;
+  height: 294px;
+}
+.line-icon,
+.phosphorus-inner {
+  position: absolute;
+  top: 0;
+  height: 310px;
+}
+.phosphorus-inner {
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  border: 2px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  width: 794px;
+}
+.line-icon {
+  left: 291.9px;
+  width: 1.1px;
+  object-fit: contain;
+}
+.apples-peaches-carrots-container {
+  position: absolute;
+  top: 64px;
+  left: 11px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 316px;
+  height: 230px;
+}
+.phosphorus1 {
+  position: absolute;
+  top: 2547px;
+  left: 129px;
+  width: 794px;
+  height: 310px;
+}
+.low-potassium-dinners {
+  position: absolute;
+  top: 2884px;
+  left: 335px;
+  font-size: 28px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 340px;
+  height: 44px;
+}
+.dinner-1-child,
+.image-14-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 254px;
+}
+.dinner-1-child {
+  background-color: var(--color-gainsboro-100);
+  height: 273px;
+}
+.image-14-icon {
+  height: 192px;
+  object-fit: cover;
+}
+.healthy-chicken-nuggets {
+  position: absolute;
+  top: 211.6px;
+  left: 11.9px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 212.5px;
+  height: 32.4px;
+}
+.dinner-1 {
+  position: absolute;
+  top: 2981px;
+  left: 56px;
+  width: 254px;
+  height: 273px;
+}
+.ginger-roasted-chicken {
+  position: absolute;
+  top: 192px;
+  left: 11.9px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 236.2px;
+  height: 81px;
+}
+.chicken-salad,
+.dinner-2 {
+  position: absolute;
+  top: 2981px;
+  left: 338px;
+  width: 254px;
+  height: 273px;
+}
+.chicken-salad {
+  top: 198.8px;
+  left: 16.9px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 212.5px;
+  height: 32.4px;
+}
+.dinner-11,
+.dinner-12 {
+  position: absolute;
+  top: 2981px;
+  left: 626px;
+  width: 254px;
+  height: 273px;
+  font-size: var(--font-size-5xl);
+}
+.dinner-12 {
+  left: 914px;
+}
+.span14 {
+  font-size: 21px;
+  white-space: pre-wrap;
+}
+.span15 {
+  font-size: var(--font-size-lg);
+}
+.call-our-support-line-098997 {
+  margin: 0;
+}
+.call-our-support-container8 {
+  position: absolute;
+  height: 0.97%;
+  width: 23.51%;
+  top: 0;
+  left: 0;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  font-size: 17px;
+}
+.summary4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 1424px;
+  height: 476px;
+}
+.deviconlinkedin4 {
+  position: absolute;
+  top: 401px;
+  left: 238px;
+  width: 28.7px;
+  height: 30.5px;
+  overflow: hidden;
+}
+.icomoon-freegithub-icon4,
+.uilfacebook-icon4 {
+  position: absolute;
+  top: 398px;
+  left: 200px;
+  width: 34.5px;
+  height: 36.6px;
+  overflow: hidden;
+}
+.icomoon-freegithub-icon4 {
+  top: 402px;
+  left: 276px;
+  width: 27.9px;
+  height: 29.6px;
+}
+.footer-child17 {
+  position: absolute;
+  top: 18.3px;
+  left: 557.6px;
+  box-shadow: 7px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-25xl);
+  background-color: var(--color-linen-300);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 687.4px;
+  height: 435.9px;
+}
+.name4 {
+  position: absolute;
+  top: 132px;
+  left: 631px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.footer-child18,
+.footer-child19 {
+  position: absolute;
+  top: 164px;
+  left: 955px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 220.1px;
+  height: 44.5px;
+}
+.footer-child19 {
+  top: 167px;
+  left: 624px;
+  width: 257.9px;
+  height: 41px;
+}
+.email4 {
+  position: absolute;
+  top: 132px;
+  left: 961px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.footer-child20 {
+  position: absolute;
+  top: 271px;
+  left: 618px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 565px;
+  height: 120.3px;
+}
+.get-in-touch4,
+.message4,
+.send-us-a4 {
+  position: absolute;
+  top: 241px;
+  left: 631px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.get-in-touch4,
+.send-us-a4 {
+  top: 79px;
+  left: 663px;
+  font-size: var(--title-h4-size);
+  font-weight: 500;
+  width: 512px;
+  height: 51px;
+}
+.get-in-touch4 {
+  top: 38px;
+  left: 791px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  width: 272px;
+  height: 34px;
+}
+.footer-child21 {
+  position: absolute;
+  top: 408px;
+  left: 823px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-palegoldenrod);
+  width: 156.9px;
+  height: 31.4px;
+}
+.send4 {
+  position: absolute;
+  top: 410px;
+  left: 870px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 91px;
+  height: 29px;
+}
+.signs-of-kidney-disease-causes4 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-xl);
+}
+.glomerular-filtration-rate-container4,
+.signs-of-kidney-container4 {
+  position: absolute;
+  top: 109px;
+  left: 228px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 155.2px;
+  height: 221.4px;
+}
+.glomerular-filtration-rate-container4 {
+  left: 392px;
+  color: var(--color-gray-100);
+}
+.follow-urologiq4,
+.kidney-health-testing4 {
+  position: absolute;
+  top: 439px;
+  left: 194px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  color: var(--color-dimgray-100);
+  width: 224.2px;
+  height: 34px;
+}
+.kidney-health-testing4 {
+  top: 38px;
+  left: 405px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-darkkhaki);
+  width: 186px;
+  height: 82px;
+}
+.kidneys-and-your-container4,
+.risk-factors4,
+.understanding-kidney-health4 {
+  position: absolute;
+  top: 109px;
+  left: 42px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 155.2px;
+  height: 221.4px;
+}
+.risk-factors4,
+.understanding-kidney-health4 {
+  top: 37px;
+  left: 235px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-darkkhaki);
+  width: 156.9px;
+  height: 41.8px;
+}
+.understanding-kidney-health4 {
+  left: 47px;
+}
+.footer4 {
+  position: absolute;
+  top: 3307px;
+  left: 0;
+  width: 1424px;
+  height: 476px;
+  font-size: var(--text-info-size);
+}
+.kidney-kitchen-item,
+.menu-bar-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-linen-100);
+  width: 1318px;
+  height: 67px;
+}
+.menu-bar-child3 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+.home6 {
+  position: absolute;
+  top: 13px;
+  left: 57px;
+  text-decoration: underline;
+  font-weight: 500;
+  display: inline-block;
+  width: 76px;
+  height: 29px;
+}
+.literature-review5 {
+  left: 252px;
+  text-decoration: underline;
+}
+.about-us6,
+.introduction9,
+.kidney-kitchen5,
+.kidney-test5,
+.literature-review5,
+.research-analysis4 {
+  position: absolute;
+  top: 13px;
+  font-weight: 500;
+  display: inline-block;
+  width: 139px;
+  height: 29px;
+}
+.kidney-test5 {
+  left: 410px;
+  text-decoration: underline;
+}
+.about-us6,
+.introduction9,
+.kidney-kitchen5,
+.research-analysis4 {
+  left: 532px;
+}
+.about-us6,
+.introduction9,
+.kidney-kitchen5 {
+  left: 708px;
+  text-decoration: underline;
+}
+.about-us6,
+.introduction9 {
+  left: 847px;
+}
+.introduction9 {
+  left: 133px;
+  width: 119px;
+}
+.everything-you-need7 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+  color: var(--color-teal);
+}
+.urologiq-everything-you-container7 {
+  position: absolute;
+  top: -35px;
+  left: -289px;
+  display: none;
+  width: 272px;
+  height: 62px;
+  font-size: var(--font-size-12xl);
+}
+.menu-bar5 {
+  position: absolute;
+  top: 34px;
+  left: 264px;
+  background-color: var(--color-linen-100);
+  width: 1020px;
+  height: 34px;
+  font-size: var(--font-size-mini);
+}
+.fluentcall-24-filled-icon3 {
+  position: absolute;
+  top: 3px;
+  left: 1005px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.urologiq-everything-you-container8 {
+  position: absolute;
+  top: 5px;
+  left: 18px;
+  display: inline-block;
+  width: 272px;
+  height: 62px;
+  font-size: var(--font-size-12xl);
+}
+.call-our-support4 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.call-our-support-container10 {
+  position: absolute;
+  height: 127.5%;
+  width: 98.37%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.contact-info4 {
+  position: absolute;
+  top: 11px;
+  left: 1029px;
+  width: 221px;
+  height: 16px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.kidney-kitchen4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3783px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--title-h4-size);
+  color: var(--color-black);
+  font-family: var(--text-info);
+}

@@ -1,0 +1,976 @@
+.kidney-health-banner-child {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #bcb3b3, #565252 76%);
+  width: 1425px;
+  height: 331px;
+}
+.image-10-icon,
+.image-9-icon {
+  position: absolute;
+  top: 0;
+  left: 799px;
+  width: 428.1px;
+  height: 453.4px;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
+.image-9-icon {
+  top: 54px;
+  left: 838px;
+  width: 332px;
+  height: 343.4px;
+  object-fit: cover;
+  mix-blend-mode: color-burn;
+}
+.kidney-and-your {
+  position: absolute;
+  top: 158px;
+  left: 89px;
+  font-weight: 800;
+  color: var(--color-white);
+  display: inline-block;
+  width: 903px;
+  height: 190px;
+}
+.answer-few-questions,
+.take-control-of {
+  position: absolute;
+  top: 425px;
+  left: 508px;
+  font-size: var(--font-size-3xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 628px;
+  height: 55px;
+}
+.answer-few-questions {
+  top: 453px;
+  left: 467px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  text-align: center;
+  width: 415px;
+  height: 70px;
+}
+.kidney-health-banner {
+  position: absolute;
+  top: 76px;
+  left: -25px;
+  width: 1425px;
+  height: 523px;
+  font-size: var(--font-size-38xl);
+}
+.content-child {
+  position: absolute;
+  top: 0;
+  left: 67px;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 848px;
+  height: 1495px;
+}
+.yes {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.dont-know {
+  margin: 0;
+}
+.yes-borderline-or-container {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  display: inline-block;
+  width: 255.6px;
+  height: 180.5px;
+}
+.child,
+.item {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 14px;
+  height: 14px;
+}
+.item {
+  top: 234px;
+}
+.child1,
+.child10,
+.child11,
+.child2,
+.child3,
+.child4,
+.child5,
+.child6,
+.child7,
+.child8,
+.child9,
+.ellipse-div,
+.inner {
+  position: absolute;
+  top: 273px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 14px;
+  height: 14px;
+}
+.child1,
+.child10,
+.child11,
+.child2,
+.child3,
+.child4,
+.child5,
+.child6,
+.child7,
+.child8,
+.child9,
+.ellipse-div {
+  top: 312px;
+}
+.child1,
+.child10,
+.child11,
+.child2,
+.child3,
+.child4,
+.child5,
+.child6,
+.child7,
+.child8,
+.child9 {
+  top: 400px;
+}
+.child10,
+.child11,
+.child2,
+.child3,
+.child4,
+.child5,
+.child6,
+.child7,
+.child8,
+.child9 {
+  top: 438px;
+}
+.child10,
+.child11,
+.child3,
+.child4,
+.child5,
+.child6,
+.child7,
+.child8,
+.child9 {
+  top: 476px;
+}
+.child10,
+.child11,
+.child4,
+.child5,
+.child6,
+.child7,
+.child8,
+.child9 {
+  top: 560px;
+}
+.child10,
+.child11,
+.child5,
+.child6,
+.child7,
+.child8,
+.child9 {
+  top: 599px;
+}
+.child10,
+.child11,
+.child6,
+.child7,
+.child8,
+.child9 {
+  top: 638px;
+}
+.child10,
+.child11,
+.child7,
+.child8,
+.child9 {
+  top: 708px;
+}
+.child10,
+.child11,
+.child8,
+.child9 {
+  top: 747px;
+}
+.child10,
+.child11,
+.child9 {
+  top: 786px;
+}
+.child10,
+.child11 {
+  top: 898px;
+}
+.child11 {
+  top: 937px;
+}
+.child12 {
+  position: absolute;
+  top: 976px;
+}
+.child12,
+.child13,
+.child14 {
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 14px;
+  height: 14px;
+}
+.child13 {
+  position: absolute;
+  top: 44px;
+}
+.child14 {
+  top: 83px;
+}
+.child14,
+.child15,
+.div {
+  position: absolute;
+}
+.child15 {
+  top: 122px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 14px;
+  height: 14px;
+}
+.div {
+  top: 63px;
+  left: 152px;
+  width: 272.6px;
+  height: 990px;
+}
+.yes-no-dont-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 108.2px;
+  height: 132px;
+}
+.div1 {
+  top: 292px;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.dm,
+.sc,
+.su {
+  position: absolute;
+  left: 169px;
+  width: 108.2px;
+  height: 132px;
+}
+.div2 {
+  top: 459px;
+  font-size: var(--font-size-lgi);
+}
+.div3,
+.div4,
+.div5,
+.dm,
+.sc,
+.su {
+  top: 618px;
+}
+.div4,
+.div5,
+.dm,
+.sc,
+.su {
+  top: 766px;
+  left: 172px;
+}
+.div5,
+.dm,
+.sc,
+.su {
+  top: 956px;
+}
+.dm,
+.sc,
+.su {
+  top: 0;
+  left: 148px;
+  display: inline-block;
+  width: 25px;
+  height: 22px;
+}
+.dm,
+.sc {
+  top: 26px;
+  width: 26px;
+  height: 24px;
+}
+.dm {
+  top: 55px;
+  width: 33px;
+  height: 22px;
+}
+.child16,
+.child17,
+.child18,
+.child19,
+.child20,
+.child21,
+.child22 {
+  position: absolute;
+  top: 7px;
+  left: 34px;
+  background-color: var(--color-gainsboro-100);
+  width: 96px;
+  height: 15px;
+}
+.child17,
+.child18,
+.child19,
+.child20,
+.child21,
+.child22 {
+  left: 186px;
+}
+.child18,
+.child19,
+.child20,
+.child21,
+.child22 {
+  top: 35px;
+}
+.child19,
+.child20,
+.child21,
+.child22 {
+  top: 59px;
+}
+.child20,
+.child21,
+.child22 {
+  top: 35px;
+  left: 34px;
+}
+.child21,
+.child22 {
+  top: 59px;
+}
+.child22 {
+  top: 185px;
+  left: 0;
+  width: 605px;
+  height: 77px;
+}
+.al,
+.bu {
+  left: 0;
+  display: inline-block;
+}
+.al {
+  position: absolute;
+  top: 3px;
+  width: 26.3px;
+  height: 42.2px;
+}
+.bu {
+  top: 31px;
+  width: 28px;
+  height: 22px;
+}
+.bu,
+.div6,
+.htn {
+  position: absolute;
+}
+.htn {
+  top: 55px;
+  left: 0;
+  display: inline-block;
+  width: 33px;
+  height: 24px;
+}
+.div6 {
+  top: 1104px;
+  left: 152px;
+  width: 605px;
+  height: 262px;
+}
+.is-there-anything {
+  position: absolute;
+  top: 1219px;
+  left: 124px;
+  display: inline-block;
+  width: 677.6px;
+  height: 70px;
+}
+.do-you-experience,
+.do-you-experience1,
+.have-you-been,
+.have-you-been1 {
+  position: absolute;
+  top: 412px;
+  left: 124px;
+  display: inline-block;
+  width: 677.6px;
+  height: 35px;
+}
+.do-you-experience,
+.do-you-experience1,
+.have-you-been1 {
+  top: 573px;
+}
+.do-you-experience1,
+.have-you-been1 {
+  top: 731px;
+  height: 70px;
+}
+.have-you-been1 {
+  top: 18px;
+  left: 0;
+  text-align: center;
+  width: 629px;
+  height: 35px;
+}
+.have-you-been2,
+.have-you-had,
+.type-the-range {
+  position: absolute;
+  top: 222px;
+  left: 124px;
+  display: inline-block;
+  width: 677.6px;
+  height: 70px;
+}
+.have-you-had,
+.type-the-range {
+  top: 1069px;
+  width: 219px;
+  height: 32px;
+}
+.have-you-had {
+  top: 890px;
+  width: 668px;
+  height: 59px;
+}
+.content-item {
+  position: absolute;
+  top: 1399px;
+  left: 707px;
+  border-radius: 20px;
+  background-color: #a48f4e;
+  width: 164px;
+  height: 37px;
+}
+.content,
+.fact-child {
+  position: absolute;
+  top: 599px;
+  left: 158px;
+  width: 915px;
+  height: 1495px;
+}
+.fact-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 1411px;
+  height: 403px;
+}
+.facts-about-kidney {
+  position: absolute;
+  top: 28px;
+  left: 574px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+  width: 323.4px;
+  height: 44.4px;
+  text-shadow: 1px 0 0 rgba(0, 0, 0, 0.69), 0 1px 0 rgba(0, 0, 0, 0.69),
+    -1px 0 0 rgba(0, 0, 0, 0.69), 0-1px 0 rgba(0, 0, 0, 0.69);
+}
+.fact-child1,
+.fact-inner,
+.fact-item {
+  position: absolute;
+  top: 107px;
+  left: 97px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 345.4px;
+  height: 268.1px;
+}
+.fact-child1,
+.fact-inner {
+  left: 523px;
+}
+.fact-child1 {
+  top: 105px;
+  left: 916px;
+}
+.adults-are-at {
+  position: absolute;
+  top: 270px;
+  left: 116px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 307.8px;
+  height: 69.4px;
+  text-shadow: 1px 0 0 rgba(0, 0, 0, 0.69), 0 1px 0 rgba(0, 0, 0, 0.69),
+    -1px 0 0 rgba(0, 0, 0, 0.69), 0-1px 0 rgba(0, 0, 0, 0.69);
+}
+.icon-parkpeoples-two {
+  position: absolute;
+  top: 148px;
+  left: 217px;
+  width: 105.3px;
+  height: 100.6px;
+  overflow: hidden;
+}
+.healthiconskidneys,
+.medical-iconi-kidney {
+  position: absolute;
+  top: 141px;
+  left: 618px;
+  width: 156px;
+  height: 108.4px;
+  overflow: hidden;
+}
+.medical-iconi-kidney {
+  left: 1031px;
+  width: 116px;
+  height: 110.7px;
+}
+.million-adults-have-container,
+.people-are-on-the {
+  position: absolute;
+  top: 287px;
+  left: 926px;
+  display: inline-block;
+  width: 326.6px;
+  height: 60.8px;
+  text-shadow: 1px 0 0 rgba(0, 0, 0, 0.69), 0 1px 0 rgba(0, 0, 0, 0.69),
+    -1px 0 0 rgba(0, 0, 0, 0.69), 0-1px 0 rgba(0, 0, 0, 0.69);
+}
+.million-adults-have-container {
+  top: 270px;
+  left: 548px;
+  width: 296px;
+  height: 91px;
+}
+.fact {
+  position: absolute;
+  top: 2153px;
+  left: -23px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  width: 1411px;
+  height: 403px;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+}
+.see-results {
+  position: absolute;
+  top: 2003px;
+  left: 887px;
+  font-weight: 500;
+  display: inline-block;
+  width: 248px;
+  height: 44px;
+}
+.summary3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 1424px;
+  height: 476px;
+}
+.deviconlinkedin3 {
+  position: absolute;
+  top: 401px;
+  left: 238px;
+  width: 28.7px;
+  height: 30.5px;
+  overflow: hidden;
+}
+.icomoon-freegithub-icon3,
+.uilfacebook-icon3 {
+  position: absolute;
+  top: 398px;
+  left: 200px;
+  width: 34.5px;
+  height: 36.6px;
+  overflow: hidden;
+}
+.icomoon-freegithub-icon3 {
+  top: 402px;
+  left: 276px;
+  width: 27.9px;
+  height: 29.6px;
+}
+.footer-child12 {
+  position: absolute;
+  top: 18.3px;
+  left: 557.6px;
+  box-shadow: 7px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-25xl);
+  background-color: var(--color-linen-300);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 687.4px;
+  height: 435.9px;
+}
+.name3 {
+  position: absolute;
+  top: 132px;
+  left: 631px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.footer-child13,
+.footer-child14 {
+  position: absolute;
+  top: 164px;
+  left: 955px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 220.1px;
+  height: 44.5px;
+}
+.footer-child14 {
+  top: 167px;
+  left: 624px;
+  width: 257.9px;
+  height: 41px;
+}
+.email3 {
+  position: absolute;
+  top: 132px;
+  left: 961px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.footer-child15 {
+  position: absolute;
+  top: 271px;
+  left: 618px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  width: 565px;
+  height: 120.3px;
+}
+.get-in-touch3,
+.message3,
+.send-us-a3 {
+  position: absolute;
+  top: 241px;
+  left: 631px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 135.5px;
+  height: 21.8px;
+}
+.get-in-touch3,
+.send-us-a3 {
+  top: 79px;
+  left: 663px;
+  font-size: var(--title-h4-size);
+  font-weight: 500;
+  width: 512px;
+  height: 51px;
+}
+.get-in-touch3 {
+  top: 38px;
+  left: 791px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  width: 272px;
+  height: 34px;
+}
+.footer-child16 {
+  position: absolute;
+  top: 408px;
+  left: 823px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-palegoldenrod);
+  width: 156.9px;
+  height: 31.4px;
+}
+.send3 {
+  position: absolute;
+  top: 410px;
+  left: 870px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 91px;
+  height: 29px;
+}
+.signs-of-kidney3 {
+  margin-bottom: 0;
+}
+.signs-of-kidney-disease-causes3 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-xl);
+}
+.glomerular-filtration-rate-container3,
+.signs-of-kidney-container3 {
+  position: absolute;
+  top: 109px;
+  left: 228px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 155.2px;
+  height: 221.4px;
+}
+.glomerular-filtration-rate-container3 {
+  left: 392px;
+  color: var(--color-gray-100);
+}
+.follow-urologiq3,
+.kidney-health-testing3 {
+  position: absolute;
+  top: 439px;
+  left: 194px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  color: var(--color-dimgray-100);
+  width: 224.2px;
+  height: 34px;
+}
+.kidney-health-testing3 {
+  top: 38px;
+  left: 405px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-darkkhaki);
+  width: 186px;
+  height: 82px;
+}
+.kidneys-and-your-container3,
+.risk-factors3,
+.understanding-kidney-health3 {
+  position: absolute;
+  top: 109px;
+  left: 42px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 155.2px;
+  height: 221.4px;
+}
+.risk-factors3,
+.understanding-kidney-health3 {
+  top: 37px;
+  left: 235px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-darkkhaki);
+  width: 156.9px;
+  height: 41.8px;
+}
+.understanding-kidney-health3 {
+  left: 47px;
+}
+.footer3 {
+  position: absolute;
+  top: 2625px;
+  left: 0;
+  width: 1424px;
+  height: 476px;
+  font-size: var(--text-info-size);
+}
+.kidney-test-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-linen-100);
+  width: 1318px;
+  height: 67px;
+}
+.fluentcall-24-filled,
+.vector-icon5 {
+  position: absolute;
+  top: 4px;
+  left: 955px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.vector-icon5 {
+  height: 0.61%;
+  width: 0.91%;
+  top: 0.13%;
+  right: 22.08%;
+  bottom: 99.26%;
+  left: 77.01%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.everything-you-need5 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+  color: var(--color-teal);
+}
+.urologiq-everything-you-container5 {
+  position: absolute;
+  top: 5px;
+  left: 18px;
+  display: inline-block;
+  width: 272px;
+  height: 62px;
+  font-size: var(--font-size-12xl);
+}
+.contact-info-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-linen-100);
+}
+.call-our-support3 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.call-our-support-container7 {
+  width: 100%;
+}
+.call-our-support-container6 {
+  position: absolute;
+  height: 127.5%;
+  width: 98.37%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.contact-info3 {
+  position: absolute;
+  top: 9px;
+  left: 1027px;
+  width: 221px;
+  height: 16px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.home5 {
+  position: absolute;
+  top: 13px;
+  left: 57px;
+  text-decoration: underline;
+  font-weight: 500;
+  display: inline-block;
+  width: 76px;
+  height: 29px;
+}
+.literature-review4 {
+  left: 252px;
+  text-decoration: underline;
+}
+.about-us5,
+.introduction8,
+.kidney-kitchen3,
+.kidney-test4,
+.literature-review4,
+.research-analysis3 {
+  position: absolute;
+  top: 13px;
+  font-weight: 500;
+  display: inline-block;
+  width: 139px;
+  height: 29px;
+}
+.kidney-test4 {
+  left: 410px;
+  text-decoration: underline;
+}
+.about-us5,
+.introduction8,
+.kidney-kitchen3,
+.research-analysis3 {
+  left: 532px;
+}
+.about-us5,
+.introduction8,
+.kidney-kitchen3 {
+  left: 708px;
+  text-decoration: underline;
+}
+.about-us5,
+.introduction8 {
+  left: 847px;
+}
+.introduction8 {
+  left: 133px;
+  width: 119px;
+}
+.urologiq-everything-you-container6 {
+  position: absolute;
+  top: -35px;
+  left: -289px;
+  display: none;
+  width: 272px;
+  height: 62px;
+  font-size: var(--font-size-12xl);
+}
+.menu-bar4 {
+  position: absolute;
+  top: 34px;
+  left: 290px;
+  background-color: var(--color-linen-100);
+  width: 994px;
+  height: 33px;
+  font-size: var(--font-size-mini);
+}
+.kidney-test3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3101px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--title-h4-size);
+  color: var(--color-black);
+  font-family: var(--text-info);
+}
